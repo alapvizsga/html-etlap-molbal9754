@@ -1,0 +1,15 @@
+html {
+    background-color: #EEFF66;
+    color: #000006;
+    font-style: italic;
+    width: 50%;
+    margin: auto;
+    border: auto;
+    text-align: center;
+    justify-content: center;
+}
+#hetek {
+    display: flex;
+    justify-content: space-evenly;
+}
+
